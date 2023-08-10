@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-
+nbproject/private
 # Log file
 *.log
 
